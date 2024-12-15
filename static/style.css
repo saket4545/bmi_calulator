@@ -1,0 +1,26 @@
+/* Custom styling */
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;  /* Adjusted width */
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+h1, h2 {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Result box */
+.alert {
+    background-color: #e9f7ef;
+    color: #3c763d;
+    font-size: 20px;
+    font-weight: bold;
+}
